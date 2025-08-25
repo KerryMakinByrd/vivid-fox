@@ -25,7 +25,7 @@ organizations:
     url: (https://www.amanda-bernardi.com/)
 
 # Short bio (displayed in user profile at end of posts)
-bio: dedicated to fighting trauma, burnout, and listless living using rigorous science and relentless compassion
+bio: fighting trauma, burnout, and listless living using rigorous science and relentless compassion
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,8 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/kerry-makin-byrd-phd-25521a27/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    url: https://docs.google.com/document/d/1TTzbDTuBmFVBi6xHGFdJix-tOsth66JCbGXw73nznhY/edit?usp=sharing
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
@@ -52,6 +51,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Clinical psychologist Dr Kerry Makin-Byrd is a noted burnout and wellbeing expert. Alum of Penn State University, University of California, San Francisco, and Palo Alto Veterans Affairs Health Care System/Stanford Medical School (affiliated), she was honoured to receive the Special Contribution Award from the Veterans Health Administration in recognition of her impactful policy contributions and clinical teaching. Not only an expert but also a burnout survivor herself, Dr Kerry previously published a memoir, The Ballad of Burnout. Her next book, Start Here: A Practical Guide for the Overwhelmed, will be published in November 2025.
