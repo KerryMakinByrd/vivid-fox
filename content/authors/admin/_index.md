@@ -25,7 +25,7 @@ organizations:
     url: (https://www.amanda-bernardi.com/)
 
 # Short bio (displayed in user profile at end of posts)
-bio: fighting trauma, burnout, and listless living using rigorous science and relentless compassion
+bio: Fighting trauma, burnout, and listless living using rigorous science and relentless compassion.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,6 +37,8 @@ profiles:
     url: https://www.instagram.com/drkerrymb
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kerry-makin-byrd-phd-25521a27/
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=mCtXdDkAAAAJ&hl=en
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: https://docs.google.com/document/d/1TTzbDTuBmFVBi6xHGFdJix-tOsth66JCbGXw73nznhY/edit?usp=sharing
